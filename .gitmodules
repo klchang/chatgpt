@@ -1,0 +1,9 @@
+[submodule "prompts/awesome-chatgpt-prompts"]
+	path = prompts/awesome-chatgpt-prompts
+	url = https://github.com/f/awesome-chatgpt-prompts.git
+[submodule "prompts/awesome-chatgpt-prompts-zh"]
+	path = prompts/awesome-chatgpt-prompts-zh
+	url = https://github.com/PlexPt/awesome-chatgpt-prompts-zh.git
+[submodule "prompts/Awesome-Prompt-Engineering"]
+	path = prompts/Awesome-Prompt-Engineering
+	url = https://github.com/promptslab/Awesome-Prompt-Engineering.git
