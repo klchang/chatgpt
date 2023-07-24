@@ -13,5 +13,5 @@ Paper: [Yuntao Bai, et al. Constitutional AI: Harmlessness from AI Feedback. 202
 
 ## Tsinghua AIITChat
 Website: [Chat with AIITChat](https://gitclone.com/aiit/chat/)   
-Model: [ChatGLM2-6B](https://github.com/THUDM/ChatGLM-6B), based on GLM(General Language Modeling) model  
+Model: [ChatGLM2-6B](https://github.com/THUDM/ChatGLM-6B), based on GLM
 Paper: [Zhengxiao Du, et al. GLM: General Language Model Pretraining with Autoregressive Blank Infilling. 2022](https://paperswithcode.com/paper/all-nlp-tasks-are-generation-tasks-a-general)
